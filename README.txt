@@ -48,3 +48,10 @@ examine the database from the SQL Server Object Explorer(SSOX)
 create SeedData.cs file in the model folder 
 forget to change "Sofa" to "Sofas" and becuase of that need to create table everytime 
 then found this error and changed it to the "Sofas"....
+
+1751
+Step 6 started 
+review whole edit file 
+lastly run the app 
+it runs perfectly 
+commit to the github.......

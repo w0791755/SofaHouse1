@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
+
 namespace SofaHouse.Models
 {
     public class Sofa
@@ -17,8 +18,9 @@ namespace SofaHouse.Models
             public string availability { get; set; }
             public string price { get; set; }
 
-            [DataType(DataType.Date)]
-            public DateTime ReleaseDate { get; set; }
+        [Display(Name = "Release Date")]
+        [DataType(DataType.Date)]
+        public DateTime ReleaseDate { get; set; }
         public int Rating { get; set; }
 
     }
