@@ -59,4 +59,4 @@ commit to the github.......
 1804 
 update the AboutUs.cshtml file 
 add some info about SofaHouse
-In the layout.cshtml file add About us Page 
+In the layout.cshtml file add About us page 
