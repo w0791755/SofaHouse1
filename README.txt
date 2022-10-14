@@ -42,3 +42,9 @@ then complete the migration step
 by selecting the Package Manager Console(PMC)
 after that test the app 
 finally table Created.......
+
+1712
+examine the database from the SQL Server Object Explorer(SSOX)
+create SeedData.cs file in the model folder 
+forget to change "Sofa" to "Sofas" and becuase of that need to create table everytime 
+then found this error and changed it to the "Sofas"....
