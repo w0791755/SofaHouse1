@@ -73,3 +73,7 @@ add some data about the sofahouse
 Lastly add 5 more Product items in SeedData.cs file 
 Rebuild and cleaned
 Run the App and it runs 
+
+1332
+commit to the github 
+stop Working ....
