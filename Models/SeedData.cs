@@ -60,7 +60,7 @@ namespace SofaHouse.Models
 
                     new Sofa
                     {
-                        type = "Spring",
+                        type = "Firm",
                         material = "cotton",
                         size = "small",
                         theme = "old",
@@ -77,8 +77,63 @@ namespace SofaHouse.Models
                          theme = "latest",
                          availability = "online",
                          price = "1899",
-                         ReleaseDate = DateTime.Parse("2021-2-7"),
+                         ReleaseDate = DateTime.Parse("2021-2-9"),
+                         Rating = 6
+                     },
+                     new Sofa
+                     {
+                         type = "firm",
+                         material = "cotton",
+                         size = "small",
+                         theme = "latest",
+                         availability = "online",
+                         price = "1899",
+                         ReleaseDate = DateTime.Parse("2021-7-7"),
+                         Rating = 4
+                     },
+                     new Sofa
+                     {
+                         type = "Soft",
+                         material = "cotton",
+                         size = "medium",
+                         theme = "old",
+                         availability = "online",
+                         price = "671",
+                         ReleaseDate = DateTime.Parse("2021-12-5"),
+                         Rating = 9
+                     },
+                     new Sofa
+                     {
+                         type = "Spring",
+                         material = "latex",
+                         size = "large",
+                         theme = "latest",
+                         availability = "offline",
+                         price = "1859",
+                         ReleaseDate = DateTime.Parse("2021-6-11"),
                          Rating = 7
+                     },
+                     new Sofa
+                     {
+                         type = "Soft",
+                         material = "cotton",
+                         size = "medium",
+                         theme = "latest",
+                         availability = "online",
+                         price = "1781",
+                         ReleaseDate = DateTime.Parse("2021-8-12"),
+                         Rating = 6
+                     },
+                     new Sofa
+                     {
+                         type = "Hard",
+                         material = "leather",
+                         size = "medium",
+                         theme = "old",
+                         availability = "offline",
+                         price = "1567",
+                         ReleaseDate = DateTime.Parse("2021-2-9"),
+                         Rating = 9
                      }
 
                 );

@@ -60,3 +60,16 @@ commit to the github.......
 update the AboutUs.cshtml file 
 add some info about SofaHouse
 In the layout.cshtml file add About us page 
+
+16th Oct 
+1154
+open project in visual studio 
+Check and run the app 
+it runs with Zero errors
+
+1155
+create a new Product.cshtml file in the in the views folder
+add some data about the sofahouse 
+Lastly add 5 more Product items in SeedData.cs file 
+Rebuild and cleaned
+Run the App and it runs 
